@@ -26,15 +26,6 @@ Portafolio personal para presentar información sobre mí, mis habilidades y mis
 
 No requiere instalación de dependencias ni un proceso de compilación.
 
-## Personalización
-
-En `index.html`, reemplaza:
-
-- `Tu Nombre` por tu nombre.
-- `tu-correo@ejemplo.com` por tu correo.
-- `tu-usuario` en el enlace de GitHub por tu nombre de usuario.
-- Los textos y tarjetas de ejemplo por información real.
-
 ## Licencia
 
 Este proyecto está disponible bajo la licencia MIT. Consulta el archivo `LICENSE`.
